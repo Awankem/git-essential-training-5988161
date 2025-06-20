@@ -1,0 +1,14 @@
+# How to Write a Commit Message
+
+A good commit message should have:
+
+1. A short summary (50 characters or less)
+2. A blank line
+3. A detailed description (optional, wrapped at 72 characters)
+
+Example:
+
+Add user authentication middleware
+
+Implemented JWT-based authentication for all API routes.
+Updated user model and added tests for login/logout functionality.
