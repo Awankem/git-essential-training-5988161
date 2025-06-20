@@ -12,3 +12,6 @@ Add user authentication middleware
 
 Implemented JWT-based authentication for all API routes.
 Updated user model and added tests for login/logout functionality.
+
+
+//This is for commit purposes
